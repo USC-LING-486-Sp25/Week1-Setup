@@ -1,0 +1,9 @@
+# Numpy or "Numerical Python" is used to handle complex 
+#   math operations in Python (i.e. Linear Algebra/Probability)
+numpy
+
+# Machine Learning Framework
+torch
+
+# Support for the Transformers Architecture
+transformers
