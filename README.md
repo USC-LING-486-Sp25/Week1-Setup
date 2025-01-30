@@ -119,7 +119,7 @@ where python
 Ex result:
 - As long as you see the folder name (for ex `Week1-Setup`) and then `.venv/bin/python` this means you're successfully using your `venv`
 ```
-/Users/{YOUR_USER_NA<E}/Folder1/Folder2/A_LING_486/guides/Week1-Setup/.venv/bin/python
+/Users/{YOUR_USER_NAME}/Folder1/Folder2/A_LING_486/guides/Week1-Setup/.venv/bin/python
 ```
 ### C. Download Dependencies
 #### Option 1: Downloading with Requirements.txt (recommended)
